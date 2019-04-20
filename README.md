@@ -1,6 +1,6 @@
-### Howto SVF patch Windows-10
+### How-To SVF patch Windows
 
-The idea of SVF patching is that it creates a single ISO file to include only the differences between two ISO images. This allows you to avoid downloading another ISO which consumes bandwith and time. The method works for all Windows Version 7 up to Windows 10.
+The idea of SVF patching is that it creates a single ISO file to include only the differences between two ISO images. This allows you to avoid downloading another ISO which consumes bandwith & your free time. The method works for all Windows Version 7 up to Windows 10. The procedure is always the same.
 
 ### Requirements
 
