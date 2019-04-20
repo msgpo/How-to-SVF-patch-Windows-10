@@ -9,6 +9,7 @@ The idea of SVF patching is that it creates a single ISO file to include only th
 * Download the SVF patch: en_windows_10_consumer_editions_version_1903_x64_dvd_b980e68c.svf _example_
 * A patch repository e.g. Build 18362.30 [SVF Repository](https://cloud.mail.ru/public/2Rwo/51AwfJ6Wp)
 * (_optional_) [Windows and Office Genuine ISO Verifier](https://genuineisoverifier.weebly.com/)
+* (_optional_) [SVF.ISO.CONVERTER](https://gitlab.com/s1ave77/SVF.ISO.CONVERTER)
 
 
 ### Tutorial 
@@ -59,5 +60,6 @@ Check with Windows and Office Genuine ISO Verifier if your newly created image i
 
 
 ### Credits
-* GezoeSloog for his SVF Repository
-* MDL Forums (_I guess they created the idea first_)
+* GezoeSloog & Enthousiast for their SVF Repositories
+* mkuba50 for SVF download script
+* MDL Forums (_I guess they created the idea first, can't remember which member it was_)
