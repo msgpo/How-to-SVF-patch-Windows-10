@@ -2,6 +2,11 @@
 
 The idea of SVF patching is that it creates a single ISO file to include only the differences between two ISO images. This allows you to avoid downloading another ISO which consumes bandwith & your free time. The method works for all Windows Version 7 up to Windows 10. The procedure is always the same.
 
+### Benefits
+* Update your Windows image without (re-)downloading gigabytes of data
+* Integrate language packs or update them
+* You might have no access to the latest ISO, now you can made it yourself
+
 ### Requirements
 
 * [SVF eXtractor](https://www.softpedia.com/get/System/Back-Up-and-Recovery/SVF-eXtractor.shtml) (_svfx_2.1.11.exe_)
