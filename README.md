@@ -9,11 +9,11 @@ The idea of SVF patching is that it creates a single ISO file to include only th
 
 ### Requirements
 
-* [SVF eXtractor](https://www.softpedia.com/get/System/Back-Up-and-Recovery/SVF-eXtractor.shtml) (_svfx_2.1.11.exe_)
+* [SVF eXtractor](https://www.softpedia.com/get/System/Back-Up-and-Recovery/SVF-eXtractor.shtml)
 * Download the Business image: en_windows_10_business_editions_version_1903_x64_dvd_37200948.iso _example_
 * Download the SVF patch: en_windows_10_consumer_editions_version_1903_x64_dvd_b980e68c.svf _example_
-* A patch repository e.g. Build 18362.30 [SVF Repository](https://cloud.mail.ru/public/2Rwo/51AwfJ6Wp)
-* (_optional_) [Windows and Office Genuine ISO Verifier](https://genuineisoverifier.weebly.com/)
+* A patch repository e.g. Build 18362.30 [SVF Repository](https://multiup.org/en/project/3b64fc2253804b7d75ec4877a81836f8)
+* (_optional_) [Windows and Office Genuine ISO Verifier](https://www.softpedia.com/get/PORTABLE-SOFTWARE/System/File-management/Windows-and-Office-Genuine-ISO-Verifier.shtml)
 
 ### Alternative Method / Tool!
 
